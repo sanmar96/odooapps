@@ -1,0 +1,2 @@
+# odooapps
+publish odoo apps
